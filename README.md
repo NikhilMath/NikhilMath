@@ -1,5 +1,11 @@
 # [NikhilMath.com](https://nikhilmath.com)  ⋄  [LinkedIn](https://www.linkedin.com/in/nikhil-math/)
 
-Personal Project is [LocalLogan.com](https://locallogan.com)
+`<style>`
 
-Junior web developer who loves front-end design! CSS Master in the making.
+
+CSS Master in the making. 
+
+`</style>`
+
+<hr>
+Personal Passion Project - [LocalLogan.com](https://locallogan.com)
