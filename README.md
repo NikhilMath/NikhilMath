@@ -2,10 +2,6 @@
 
 `<style>`
 
-
 CSS Master in the making. 
 
 `</style>`
-
-<hr>
-Personal Passion Project - [LocalLogan.com](https://locallogan.com)
