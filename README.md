@@ -2,6 +2,6 @@
 
 `<style>`
 
-CSS Master in the making. 
+CSS Master in training. 
 
 `</style>`
