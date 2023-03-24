@@ -1,7 +1,5 @@
-# [NikhilMath.com](https://nikhilmath.com)  ⋄  [LinkedIn](https://www.linkedin.com/in/nikhil-math/)
+# [NikhilMath.com](https://nikhilmath.com)  ⋄  [LinkedIn](https://www.linkedin.com/in/nikhil-math/)  ⋄  [GitHub Gists](https://gist.github.com/NikhilMath)
 
-`<style>`
-
-CSS Master in training. 
-
-`</style>`
+```css
+CSS Master in training
+```
