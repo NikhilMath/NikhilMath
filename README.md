@@ -4,6 +4,8 @@ My personal website, always kept up to date.
 
 ---
 
-## I love documentation, especially Markdown
+## I love documentation
 
 > Code tells you *how*. Documentation tells you *why*.
+>
+> And the best documentation is written in Markdown.
