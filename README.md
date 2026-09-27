@@ -1,6 +1,9 @@
-# [NikhilMath.com](https://nikhilmath.com)  ⋄  [LinkedIn](https://www.linkedin.com/in/nikhil-math/)  ⋄  [GitHub Gists](https://gist.github.com/NikhilMath)
+# [NikhilMath.com](https://nikhilmath.com)
+
+My personal website, always kept up to date.
 
 ```mermaid
 flowchart LR
-    Mermaid --> enthusiast
+    Me -- loves --> Documentation
+    Documentation -- especially --> README.md
 ```
