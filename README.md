@@ -4,6 +4,5 @@ My personal website, always kept up to date.
 
 ```mermaid
 flowchart LR
-    Me -- loves --> Documentation
-    Documentation -- especially --> README.md
+    A[I love documentation] --> B[especially a good README.md]
 ```
